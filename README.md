@@ -40,9 +40,11 @@ ex. Veer Pareek - vpareek2@illinois.edu
 * 0.1
     * Initial Release
 
+- [ ] Find a more efficient way to save and load model
 - [ ] Collect more english to braille text
 - [ ] Implement Grade 2 Braille translation
 - [ ] Write a script to auto 3D Print
+
 
 ## Note about architecture
 You might be confused as to why I would use a model as complex as a LSTM. I honestly did this project to learn about the architecture of a LSTM and how to use JAX and Haiku to build it. Also down the line I plan to collect a dataset filled with english to braile sentences and paragraphs to train a Grade 2 Braille model, that can make actual sentences, rather than translations, using contractions, numbers, punctuation, etc. 
