@@ -1,4 +1,4 @@
-# BrailleSculpt (Work In Progress updating Readme)                  
+# BrailleSculpt                
 
 <img src="other/BrailleSculptLogo.png" width="300" align="right">
 
