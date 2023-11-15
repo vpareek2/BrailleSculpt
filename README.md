@@ -14,10 +14,10 @@ This project involves developing a machine learning application to convert text 
 
 ### Dependencies
 
-* !pip install git+https://github.com/deepmind/dm-haiku
-* !pip install plotnine
-* !pip install pybraille
-* !pip install gradio
+* `pip install git+https://github.com/deepmind/dm-haiku`
+* `pip install plotnine`
+* `pip install pybraille`
+* `pip install gradio`
 
 
 ### Executing program
