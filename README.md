@@ -14,41 +14,37 @@ This project involves developing a machine learning application to convert text 
 
 ### Dependencies
 
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-* ex. MacOS
+* !pip install git+https://github.com/deepmind/dm-haiku
+* !pip install plotnine
+* !pip install pybraille
+* !pip install gradio
 
-### Installing
-
-* How/where to download your program
-* Any modifications needed to be made to files/folders
 
 ### Executing program
 
-* How to run the program
-* Step-by-step bullets
+* Run the program with run.py then open the link returned in the browser of your choice.
+  
 ```
-code blocks for commands
+python run.py
 ```
 
-## Help
-
-Any advise for common problems or issues.
-```
-command to run if program contains helper info
-```
 
 ## Authors
 
-Contributors names and contact info
+Contributors name and contact info
 
-ex. Veer Pareek
+ex. Veer Pareek - vpareek2@illinois.edu
 
 ## Version History
 
 * 0.1
     * Initial Release
 
-## Acknowledgments
+- [ ] Collect more english to braille text
+- [ ] Implement Grade 2 Braille translation
+- [ ] Write a script to auto 3D Print
 
-Inspiration, code snippets, etc.
+## Note about architecture
+You might be confused as to why I would use a model as complex as a LSTM. I honestly did this project to learn about the architecture of a LSTM and how to use JAX and Haiku to build it. Also down the line I plan to collect a dataset filled with english to braile sentences and paragraphs to train a Grade 2 Braille model, that can make actual sentences, rather than translations, using contractions, numbers, punctuation, etc. 
+
 
