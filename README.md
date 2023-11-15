@@ -1,4 +1,8 @@
-# BrailleSculpt (Work In Progress updating Readme)
+# BrailleSculpt (Work In Progress updating Readme)                  
+
+<img src="other/BrailleSculptLogo.png" width="300" align="right">
+
+
 
 An English to Brail translator that 3d Prints.
 
@@ -11,7 +15,7 @@ This project involves developing a machine learning application to convert text 
 ### Dependencies
 
 * Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-* ex. Windows 10
+* ex. MacOS
 
 ### Installing
 
