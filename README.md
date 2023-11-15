@@ -14,7 +14,6 @@ This project involves developing a machine learning application to convert text 
 
 ## Demo
 <video src="other/BrailleSculptDemo.mp4" width="320" height="240" controls>
-  Your browser does not support the video tag.
 </video>
 
 
